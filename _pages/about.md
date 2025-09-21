@@ -19,7 +19,7 @@ Hi! I'm a Ph.D. student in Computer Science at Princeton University, advised by 
 
 I am broadly interested in the application of ML to problems in structural biology. In particular, my research focuses on the 3D reconstruction of dynamic protein structure from cryo-EM and cryo-ET imaging data.
 
-I'm fortunate to have interned at the [Chan Zuckerberg Imaging Institute](https://www.czimaginginstitute.org/) and the [Bhabha+Ekiert Lab](https://be-labs.org/). Previously, I completed my B.S.E. and M.S.E. at Princeton University.
+I'm fortunate to have interned at [Microsoft Research AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) and the [Chan Zuckerberg Imaging Institute](https://www.czimaginginstitute.org/). Previously, I completed my B.S.E. and M.S.E. at Princeton University.
 <br><br>
 <div align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=CvpGqb8AAAAJ"><strong style="color:#b509ac">Scholar</strong></a> / 
